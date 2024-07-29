@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Data } from '../../Interfaces/Stock';
 import StockData from '../../Components/StockData';
 import DropDown from '../../Components/DropDown';
